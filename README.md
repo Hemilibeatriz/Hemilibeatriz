@@ -8,7 +8,7 @@
 - 🔭 Hoje trabalho como Desenvolvedora Freelancer (FullStack)
 - 🌱 Sempre estudando Python e suas Ferramentas
 - 📫 Você pode falar comigo através do e-mail: hemilitrindade@gmail.com
-- ⚡ Amo compartilhar meus conhecimentos no YouTube, com o canal Café e Computação... Vem conhecer: 
+- ⚡ Amo compartilhar meus conhecimentos no YouTube, com o canal Café e Computação... Vem ver: 
     <a href="https://www.youtube.com/UC8-iobJ_CWod3FRGE0sPrOg?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
